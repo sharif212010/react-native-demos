@@ -7,6 +7,9 @@ const TextComponent=() => {
             <Text> 
                 My teacher is Mr.mohammed musab khan
             </Text>
+            <Text>
+                yeman kogovali 
+            </Text>
         </View>
     )
     
