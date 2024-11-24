@@ -6,16 +6,21 @@ import AgeComponent from './components/AgeComponent'
 import FavSubjectComponent from './components/FavSubjectComponent'
 import GreetComponent from './components/GreetComponent'
 import DynamicContentComponent from './components/DynamicContentComponent'
+import CarComponent from './components/CarComponent'
+import ListDataComponent from './components/ListDataComponent'
 
 const Index = () => {
     return (
         <View>
-            <DynamicContentComponent />
+            {/* <DynamicContentComponent /> */}
             {/* <TextComponent />
              <NameComponent />
               <AgeComponent />
                <FavSubjectComponent />
+
                 <GreetComponent /> */}
+                {/* <CarComponent /> */}
+                <ListDataComponent />
         </View>
     )
 }
